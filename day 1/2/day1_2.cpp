@@ -24,8 +24,6 @@ int main() {
         {
             dial -= stoi(line.substr(1,3));
         }
-
-        
         
         if (dial < 0)
         { 
